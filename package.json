@@ -4,7 +4,6 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.948.0",
-    "node-fetch": "^2.6.1",
     "puppeteer": "10.0.0"
   }
 }

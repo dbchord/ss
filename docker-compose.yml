@@ -4,3 +4,4 @@ services:
   core:
     build:
       context: .
+    env_file: .env
